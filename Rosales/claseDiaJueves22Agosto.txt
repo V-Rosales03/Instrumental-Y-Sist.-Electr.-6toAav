@@ -1,0 +1,2 @@
+Ahora cree esta carpeta porque en clase de instrumentales electricos vamos a hacer un html para hacer algo de la materia. el siguiente archivo index.html deberia ser dicha pagina
+
